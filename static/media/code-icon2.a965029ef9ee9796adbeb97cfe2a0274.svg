@@ -1,0 +1,60 @@
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 100 100"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="4"
+     fill="none"
+  >
+  <defs>
+    <mask id="mask">
+      <path stroke="rgba(255,255,255,0.35)"
+            d="M30 42
+               l-10 8
+               l10 8
+               
+               M36 62z
+               M42 62z
+               M48 62z
+               
+               M64 35
+               l-10 30
+               
+               M70 42
+               l10 8
+               l-10 8
+               "/>
+      <g transform="rotate(45,50,50)">
+        <path stroke="white"
+              d="M14 50
+                 a36 36,0 0 1,72 0
+                 h30
+                 "/>
+        <path stroke="white"
+              transform="rotate(-165,50,50)"
+              d="M14 50
+                 a36 36,0 0 1,72 0
+                 "/>
+        <path stroke="white"
+              transform="rotate(-5,50,50)"
+              d="M22 50
+                 a28 28,0 0 1,2-10.35
+                 "/>
+        <path stroke="white"
+              transform="rotate(30,50,50)"
+              d="M22 50z
+                 "/>
+      </g>
+    </mask>
+    <linearGradient id="gradient"
+                    x1="0" y1="0"
+                    x2="1" y2="0">
+      <stop offset="0%" stop-color="deeppink"/>
+      <stop offset="100%" stop-color="mediumspringgreen"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="100" height="100"
+        mask="url(#mask)"
+        fill="url(#gradient)"/>
+</svg>

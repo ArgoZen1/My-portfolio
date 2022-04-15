@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/My-portfolio/static/css/main.bb30499c.css",
+    "main.js": "/My-portfolio/static/js/main.3a173c95.js",
+    "static/media/video.mp4": "/My-portfolio/static/media/video.52e8933b6c462b590514.mp4",
+    "static/media/CV.pdf": "/My-portfolio/static/media/CV.213c48203c5deff80822.pdf",
+    "static/media/lachouette2-min.webp": "/My-portfolio/static/media/lachouette2-min.410fbce618b9c7fd1acf.webp",
+    "static/media/portfolio1-min.webp": "/My-portfolio/static/media/portfolio1-min.add3ab06ca8678354fbe.webp",
+    "static/media/booki2-min.webp": "/My-portfolio/static/media/booki2-min.1b598d57a5be2003e79e.webp",
+    "static/media/ohmyfood2-min.webp": "/My-portfolio/static/media/ohmyfood2-min.6bcc81402665f75ae0ed.webp",
+    "static/media/kanap1-min.webp": "/My-portfolio/static/media/kanap1-min.95b014b14d8899ddb305.webp",
+    "static/media/piquantepc-min.webp": "/My-portfolio/static/media/piquantepc-min.96f35c8c2c818a9cec82.webp",
+    "static/media/groupomania1-min.webp": "/My-portfolio/static/media/groupomania1-min.6508765125774b7aecea.webp",
+    "static/media/work1-min.webp": "/My-portfolio/static/media/work1-min.481dac925e90742c9567.webp",
+    "static/media/mern2-min.webp": "/My-portfolio/static/media/mern2-min.4c60ac105884f0686290.webp",
+    "static/media/animated-text-1-min.webp": "/My-portfolio/static/media/animated-text-1-min.9eb19bda4e20fb224b90.webp",
+    "static/media/new-logo-AR-min.webp": "/My-portfolio/static/media/new-logo-AR-min.9f78f4eefb071e84d693.webp",
+    "static/media/tv-icon.svg": "/My-portfolio/static/media/tv-icon.a29cef8c8a17db0d098d3ee91bd8de76.svg",
+    "static/media/code-icon2.svg": "/My-portfolio/static/media/code-icon2.a965029ef9ee9796adbeb97cfe2a0274.svg",
+    "static/media/image-icon3.svg": "/My-portfolio/static/media/image-icon3.1d004efa369ef00792482ea3f0aba96e.svg",
+    "static/media/code-icon1.svg": "/My-portfolio/static/media/code-icon1.729f52f6247645685f0e65ebafe36c29.svg",
+    "static/media/internet-icon.svg": "/My-portfolio/static/media/internet-icon.6bdb0fd9d2feee20c9cc931ba2206fcc.svg",
+    "index.html": "/My-portfolio/index.html",
+    "static/media/sass-icon.svg": "/My-portfolio/static/media/sass-icon.6b3cab0f57366407ddc3a68f0553422f.svg",
+    "main.bb30499c.css.map": "/My-portfolio/static/css/main.bb30499c.css.map",
+    "main.3a173c95.js.map": "/My-portfolio/static/js/main.3a173c95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb30499c.css",
+    "static/js/main.3a173c95.js"
+  ]
+}
